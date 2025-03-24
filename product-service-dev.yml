@@ -1,0 +1,2 @@
+product-service:
+  welcome-message: "Hello from Config Server!"
